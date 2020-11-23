@@ -3,7 +3,7 @@
 
 [grafico_w46/2020 - Rawgraph](https://alebrizuelan721.github.io/infovis/w46_rawgraph.html)
 
-[w46_2020 - Flourish] (https://alebrizuelan721.github.io/infovis/w46_flourish.html)
+[w46_2020 - Flourish](https://alebrizuelan721.github.io/infovis/w46_flourish.html)
 
 
 
