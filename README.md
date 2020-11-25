@@ -9,6 +9,10 @@
 
 [TPFinalConsumoElectrodomesticos - grafico](https://alebrizuelan721.github.io/infovis/TPFinalConsumoElectrodomesticos.html)
 
+[TP_KmRecorridos - Flourish](https://alebrizuelan721.github.io/infovis/TP_KmRecorridos.html)
+
+
+
 
 
 
