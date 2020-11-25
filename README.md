@@ -5,7 +5,7 @@
 
 [w46_2020 - Flourish](https://alebrizuelan721.github.io/infovis/w46_flourish.html)
 
-Trabajo Practico Final
+# Trabajo Practico Final
 
 [TPFinalConsumoElectrodomesticos - grafico](https://alebrizuelan721.github.io/infovis/TPFinalConsumoElectrodomesticos.html)
 
