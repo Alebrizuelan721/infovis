@@ -12,7 +12,7 @@
 [TP_KmRecorridos - Flourish](https://alebrizuelan721.github.io/infovis/TP_KmRecorridos.html)
 
 
-
+[TP_ConsumCorregido](https://alebrizuelan721.github.io/infovis/TP_ConsumoEcorregido.html)
 
 
 
